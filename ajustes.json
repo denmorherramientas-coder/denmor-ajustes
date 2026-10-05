@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-05T08:25:22.112Z",
+ "actualizado": "2026-10-05T08:26:10.552Z",
  "precios": {
   "global": 25,
   "redondeo": 10,
@@ -30,8 +30,8 @@
   "hasta": "31-10"
  },
  "admin": {
-  "salt": "pgDHR+C4ck5M3+NRRzOiww==",
+  "salt": "v9RBD5FrMN6YPAfxmLPEsQ==",
   "iter": 210000,
-  "hash": "anhBZguysKZ7EWCsHL9lgHXw2KzKOb4ayvYCXNn6vG4="
+  "hash": "oxY9Y9O/A3EwavWIEQ1Z9mGaUyYMen9hQSRlRC+7vzg="
  }
 }
