@@ -1,8 +1,8 @@
 {
  "version": 1,
- "actualizado": "2026-10-05T08:09:29.241Z",
+ "actualizado": "2026-10-05T08:11:15.675Z",
  "precios": {
-  "global": -20.02,
+  "global": 25,
   "redondeo": 10,
   "marcas": {},
   "familias": {},
@@ -19,5 +19,14 @@
  "textos": {
   "titulo": "",
   "franja": ""
+ },
+ "promo": {
+  "activo": true,
+  "pct": 0,
+  "nombre": "Venta nocturna",
+  "horaIni": "",
+  "horaFin": "",
+  "desde": "",
+  "hasta": ""
  }
 }
