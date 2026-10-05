@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-05T08:12:01.490Z",
+ "actualizado": "2026-10-05T08:25:22.112Z",
  "precios": {
   "global": 25,
   "redondeo": 10,
@@ -28,5 +28,10 @@
   "horaFin": "25:59",
   "desde": "55-10",
   "hasta": "31-10"
+ },
+ "admin": {
+  "salt": "pgDHR+C4ck5M3+NRRzOiww==",
+  "iter": 210000,
+  "hash": "anhBZguysKZ7EWCsHL9lgHXw2KzKOb4ayvYCXNn6vG4="
  }
 }
