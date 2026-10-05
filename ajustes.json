@@ -1,6 +1,6 @@
 {
  "version": 1,
- "actualizado": "2026-10-05T08:40:10.571Z",
+ "actualizado": "2026-10-05T08:40:41.678Z",
  "precios": {
   "global": 25,
   "redondeo": 10,
@@ -22,7 +22,7 @@
  },
  "promo": {
   "activo": true,
-  "pct": 0,
+  "pct": 20.02,
   "nombre": "Venta nocturna",
   "horaIni": "",
   "horaFin": "",
