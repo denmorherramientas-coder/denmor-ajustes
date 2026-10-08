@@ -1,6 +1,17 @@
 {
  "version": 1,
- "actualizado": "2026-10-05T08:40:41.678Z",
+ "orden": {
+  "modo": "dia",
+  "grupo": 48
+ },
+ "fichas": {},
+ "fotos": {
+  "reales": "nunca"
+ },
+ "fotoUrl": {
+  "3632-20": "https://micraherramientas.com.mx/wp-content/uploads/2025/11/3632-21_3.webp"
+ },
+ "actualizado": "2026-10-08T02:52:51.602Z",
  "precios": {
   "global": 25,
   "redondeo": 10,
@@ -27,7 +38,7 @@
   "horaIni": "",
   "horaFin": "",
   "desde": "",
-  "hasta": "31-10"
+  "hasta": "2026-10-31"
  },
  "admin": {
   "salt": "v9RBD5FrMN6YPAfxmLPEsQ==",
