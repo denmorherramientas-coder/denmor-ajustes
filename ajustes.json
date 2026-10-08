@@ -1,7 +1,7 @@
 {
  "version": 1,
  "orden": {
-  "modo": "hora",
+  "modo": "visita",
   "grupo": 48
  },
  "fichas": {},
@@ -13,7 +13,7 @@
   "6142-30": "https://cms.grupoferrepat.net/assets/img/productos/6142-30.webp",
   "6117-33D": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWWwq-ZEUgn425pYV1qFgIQiQa9X-UDAhKj428HKcVg&s=10"
  },
- "actualizado": "2026-10-08T03:05:38.965Z",
+ "actualizado": "2026-10-08T03:05:58.630Z",
  "precios": {
   "global": 25,
   "redondeo": 10,
