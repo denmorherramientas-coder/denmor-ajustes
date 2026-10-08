@@ -15,9 +15,9 @@
   "2571-20": "https://www.milwaukeetool.com/--/web-images/sc/d024cde5e4414d39b0b2cd9c96f17174?hash=9412e6b298dc9836e8654b035d64d1f9&lang=en&mw=3840",
   "2457-20": "https://www.milwaukeetool.com/--/web-images/sc/cc2cc96c2360412a9002d5ad756d0a0a?hash=f972d12eface27435b949f28d57a6167&lang=en&mw=3840"
  },
- "actualizado": "2026-10-08T03:39:34.792Z",
+ "actualizado": "2026-10-08T03:39:48.701Z",
  "precios": {
-  "global": 0,
+  "global": 25,
   "redondeo": 10,
   "marcas": {},
   "familias": {},
@@ -38,7 +38,7 @@
  },
  "promo": {
   "activo": true,
-  "pct": 0,
+  "pct": 20.02,
   "nombre": "Venta nocturna",
   "horaIni": "",
   "horaFin": "",
