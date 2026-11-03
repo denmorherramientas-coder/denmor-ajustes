@@ -21,7 +21,7 @@
   "maletatelaextragrande": "https://http2.mlstatic.com/D_NQ_NP_2X_717194-MLM111126156244_052026-F.webp",
   "DXPW61408": "https://http2.mlstatic.com/D_NQ_NP_2X_972585-MLM93181009488_092025-F.webp"
  },
- "actualizado": "2026-10-26T04:29:02.888Z",
+ "actualizado": "2026-11-03T21:09:44.861Z",
  "precios": {
   "global": 25,
   "redondeo": 10,
@@ -37,7 +37,7 @@
  "destacados": [],
  "aviso": {
   "activo": true,
-  "texto": "Venta Nocturna Activa!",
+  "texto": "PROXIMAMENTE BUEN FIN!!!",
   "color": "rojo"
  },
  "textos": {
@@ -46,8 +46,8 @@
   "garantia": ""
  },
  "promo": {
-  "activo": true,
-  "pct": 20.02,
+  "activo": false,
+  "pct": 0,
   "nombre": "Venta nocturna",
   "horaIni": "",
   "horaFin": "",
@@ -58,5 +58,273 @@
   "salt": "UVi+JISdal2vA/dHZsGmsA==",
   "iter": 210000,
   "hash": "j+8I6LS2EYbaqVcZAanjKsdJ5VZFQNg+JR2eY1IsYb4="
+ },
+ "calendario": {
+  "piezas": [
+   {
+    "id": "n1",
+    "fecha": "2026-11-02",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Llave de impacto DeWalt 20V",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075236_6d1bf821-e2f6-4d08-9c96-e262a0cccf2a.png",
+    "texto": "Las birlas más pegadas no tienen nada que hacer contra esta 💪\nLlave de impacto DeWalt 20V, probada pieza por pieza en Denmor.\n\n📲 Pregunta existencias por WhatsApp: 614 466 4235\n📍 José Martí 3104, Col. Ángel Trías, Chihuahua\n🚚 Envíos a todo México\n\n#DeWalt #Chihuahua #Herramientas #Taller #Mecánico #DenmorHerramientas",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n2",
+    "fecha": "2026-11-03",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Esmeriladora Milwaukee M18 FUEL",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_080533_1334d190-a294-44e8-951b-873967d69c5f.mp4",
+    "texto": "Corta varilla como mantequilla 🔥",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n3",
+    "fecha": "2026-11-04",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Lijadora orbital Milwaukee M18",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075338_ca9d937e-29e1-470a-835a-719fcd3d0fd7.png",
+    "texto": "Del antes al después en una sola pasada 🪵\nLijadora orbital Milwaukee M18, sin cable y sin pretextos.\n\n📲 WhatsApp 614 466 4235\n📍 José Martí 3104, Chihuahua\n🚚 Envíos a todo México\n\n#Milwaukee #Carpintería #Madera #Chihuahua #DenmorHerramientas",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n4",
+    "fecha": "2026-11-05",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Rotomartillo DeWalt DCD1007 20V XR",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_080825_08e787ab-f8a7-490d-97aa-822f0cad1151.mp4",
+    "texto": "Tu próximo proyecto empieza aquí 🛠️",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n5",
+    "fecha": "2026-11-06",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Llave de impacto 1\" Milwaukee M18 FUEL 2869",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075430_9945d940-bcb5-47c8-bf25-c7cb0aae705e.png",
+    "texto": "Para trabajo pesado de verdad 🚛\nLlave de impacto de 1\" Milwaukee M18 FUEL. Hecha para tractocamión, maquinaria y talleres que no paran.\n\n📲 Aparta por WhatsApp: 614 466 4235\n📍 José Martí 3104, Chihuahua\n🚚 Envíos a todo México\n\n#MilwaukeeTool #M18FUEL #Tractocamión #Chihuahua #DenmorHerramientas",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n6",
+    "fecha": "2026-11-07",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Ingletadora Milwaukee M18 FUEL 10\"",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075707_4abb0fa5-08ab-46ac-94fc-bbb1e0105196.mp4",
+    "texto": "Cortes perfectos, sin cable ✂️",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n7",
+    "fecha": "2026-11-09",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Llave de impacto Milwaukee M12 FUEL Stubby",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075338_6d2659c6-da30-4349-bf0e-e0cf3bed07fa.png",
+    "texto": "Chiquita pero picosa 🔧\nLa M12 FUEL Stubby entra donde las demás no caben.\n\n📲 WhatsApp 614 466 4235\n📍 José Martí 3104, Chihuahua\n🚚 Envíos a todo México\n\n#Milwaukee #M12FUEL #Mecánico #Taller #Chihuahua #DenmorHerramientas",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n8",
+    "fecha": "2026-11-10",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Motosierra de poda Ryobi 18V",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075706_b2c3acec-5bce-4c9d-8c29-67f16e2145fd.mp4",
+    "texto": "El jardín listo en minutos 🌳",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n9",
+    "fecha": "2026-11-11",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Ingletadora Milwaukee M18 FUEL 10\" 2734",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075430_bdd868bb-0013-4a96-9147-184e78943867.png",
+    "texto": "Precisión de taller donde la necesites 🎯\nIngletadora deslizante Milwaukee M18 FUEL de 10\".\n\n📲 Pregunta por WhatsApp: 614 466 4235\n📍 José Martí 3104, Chihuahua\n🚚 Envíos a todo México\n\n#Milwaukee #Carpintería #Ingletadora #Chihuahua #DenmorHerramientas",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n10",
+    "fecha": "2026-11-12",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Ingletadora DeWalt DWS780 12\"",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075706_b592de65-2ed2-454b-a122-3410b7d1210c.mp4",
+    "texto": "La favorita de los carpinteros 🪚",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n11",
+    "fecha": "2026-11-13",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Multiherramienta DeWalt XR",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075337_89bb02ce-3819-4d84-8f9b-35d9ee9dabd3.png",
+    "texto": "Un corte limpio en tablaroca, a la primera ✅\nMultiherramienta oscilante DeWalt XR para remodelar sin batallar.\n\n📲 WhatsApp 614 466 4235\n📍 José Martí 3104, Chihuahua\n🚚 Envíos a todo México\n\n#DeWalt #Remodelación #Tablaroca #Chihuahua #DenmorHerramientas",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n12",
+    "fecha": "2026-11-14",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Rotomartillo Milwaukee SDS-Plus M18 FUEL",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075706_b3062588-fb0e-44af-bc03-4c080ae315a3.mp4",
+    "texto": "Ladrillo, concreto… lo que sea 💥",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n13",
+    "fecha": "2026-11-16",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Esmeriladora Milwaukee M18 FUEL",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075338_e0a7bbdc-e7af-4b87-ba5f-b799bdae95d3.png",
+    "texto": "Chispas, acero y cero cables ⚡\nEsmeriladora Milwaukee M18 FUEL para el taller de herrería.\n\n📲 WhatsApp 614 466 4235\n📍 José Martí 3104, Chihuahua\n🚚 Envíos a todo México\n\n#Milwaukee #Herrería #Soldadura #Chihuahua #DenmorHerramientas",
+    "nota": "Lunes 16 es día festivo (Revolución). Si cierras ese día, cambia el texto.",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n14",
+    "fecha": "2026-11-17",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Llave de impacto DeWalt 20V MAX XR",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_080533_c3738596-d611-4d06-9188-12cf05226e27.mp4",
+    "texto": "¿Birlas pegadas? Ya no 💪",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n15",
+    "fecha": "2026-11-18",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Ingletadora DeWalt DWS780 12\"",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075429_cdc363fc-ad1b-4c88-9519-0341765fbff8.png",
+    "texto": "La ingletadora que todo carpintero quiere en la obra 🏗️\nDeWalt DWS780 de 12\", doble bisel.\n\n📲 Pregunta existencias: 614 466 4235\n📍 José Martí 3104, Chihuahua\n🚚 Envíos a todo México\n\n#DeWalt #Carpintería #Construcción #Chihuahua #DenmorHerramientas",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n16",
+    "fecha": "2026-11-19",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Lijadora orbital Milwaukee M18",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075632_e6a85db2-5075-49d5-aee0-d4db011a4415.mp4",
+    "texto": "Dale otra vida a tus muebles 🚪",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n17",
+    "fecha": "2026-11-20",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Rotomartillo DeWalt DCD1007 20V XR",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_080620_c2551f50-ce5a-41b4-8ac3-b9c1db4acfec.png",
+    "texto": "Construyendo Chihuahua, tornillo por tornillo 🏜️\nRotomartillo DeWalt DCD1007 20V MAX XR con batería POWERPACK, probado en Denmor.\n\n📲 WhatsApp 614 466 4235\n📍 José Martí 3104, Chihuahua\n🚚 Envíos a todo México\n\n#DeWalt #Construcción #Chihuahua #Taladro #DenmorHerramientas",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n18",
+    "fecha": "2026-11-21",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Clavadora Ryobi AirStrike 18V",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075632_badd469b-7b2f-404d-b2c9-477e132a3ff7.mp4",
+    "texto": "Sin compresor y sin mangueras 🔨",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n19",
+    "fecha": "2026-11-23",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Clavadora Ryobi AirStrike 18V",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_074513_e06bcb7f-8ab1-4899-8357-53cbd63a57a9.png",
+    "texto": "Acabados finos sin compresor 🔨\nClavadora Ryobi AirStrike calibre 18: conectas la batería y a trabajar.\n\n📲 WhatsApp 614 466 4235\n📍 José Martí 3104, Chihuahua\n🚚 Envíos a todo México\n\n#Ryobi #Carpintería #Acabados #Chihuahua #DenmorHerramientas",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n20",
+    "fecha": "2026-11-24",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Llave de impacto Milwaukee M12 FUEL Stubby",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_080533_8182a279-a423-46e6-8307-aebcfcb561e4.mp4",
+    "texto": "Para los espacios más apretados 🔧",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n21",
+    "fecha": "2026-11-25",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Rotomartillo Milwaukee SDS-Plus M18 FUEL 2912",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075429_1e6ae38a-3a34-4736-be02-89a2952ab4cc.png",
+    "texto": "El concreto no es rival 💥\nRotomartillo SDS-Plus Milwaukee M18 FUEL para obra pesada.\n\n📲 Aparta por WhatsApp: 614 466 4235\n📍 José Martí 3104, Chihuahua\n🚚 Envíos a todo México\n\n#Milwaukee #Rotomartillo #Construcción #Chihuahua #DenmorHerramientas",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n22",
+    "fecha": "2026-11-26",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Multiherramienta DeWalt ATOMIC 20V",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_080533_6885b8c4-28b7-4e55-b39f-f52f4cc2acb5.mp4",
+    "texto": "Cortes que otras no logran ✅",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n23",
+    "fecha": "2026-11-27",
+    "hora": "19:00",
+    "tipo": "post",
+    "producto": "Motosierra de poda Ryobi 18V",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075431_c08ca205-7fe2-463e-b1bb-6565bb4d0a22.png",
+    "texto": "Para el rancho, la huerta o el patio 🌳\nMotosierra de poda Ryobi 18V, ligera y sin cable.\n\n📲 WhatsApp 614 466 4235\n📍 José Martí 3104, Chihuahua\n🚚 Envíos a todo México\n\n#Ryobi #Jardín #Rancho #Chihuahua #DenmorHerramientas",
+    "nota": "",
+    "estado": "pendiente"
+   },
+   {
+    "id": "n24",
+    "fecha": "2026-11-28",
+    "hora": "13:00",
+    "tipo": "historia",
+    "producto": "Llave de impacto 1\" Milwaukee M18 FUEL",
+    "media": "https://d8j0ntlcm91z4.cloudfront.net/user_3Kily1S6iGvBfDXmCLQ6zMeMmvh/hf_20261015_075706_ace7d684-43f3-4356-8431-6bbe8b5ce9ed.mp4",
+    "texto": "Fuerza para trabajo pesado 🚛",
+    "nota": "",
+    "estado": "pendiente"
+   }
+  ]
  }
 }
