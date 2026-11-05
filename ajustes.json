@@ -21,7 +21,7 @@
   "maletatelaextragrande": "https://http2.mlstatic.com/D_NQ_NP_2X_717194-MLM111126156244_052026-F.webp",
   "DXPW61408": "https://http2.mlstatic.com/D_NQ_NP_2X_972585-MLM93181009488_092025-F.webp"
  },
- "actualizado": "2026-11-04T05:28:47.733Z",
+ "actualizado": "2026-11-05T16:19:31.000Z",
  "precios": {
   "global": 0,
   "redondeo": 10,
@@ -36,7 +36,7 @@
  ],
  "destacados": [],
  "aviso": {
-  "activo": true,
+  "activo": false,
   "texto": "PROXIMAMENTE BUEN FIN!!!",
   "color": "rojo"
  },
@@ -326,5 +326,12 @@
     "estado": "pendiente"
    }
   ]
+ },
+ "ofertas": {
+  "activo": true,
+  "nombre": "Buen Fin",
+  "desde": "2026-11-05",
+  "hasta": "2026-11-30",
+  "fuera": []
  }
 }
