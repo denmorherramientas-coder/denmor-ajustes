@@ -1,7 +1,7 @@
 {
  "version": 1,
  "orden": {
-  "modo": "dia",
+  "modo": "visita",
   "grupo": 48
  },
  "fichas": {},
@@ -21,7 +21,7 @@
   "maletatelaextragrande": "https://http2.mlstatic.com/D_NQ_NP_2X_717194-MLM111126156244_052026-F.webp",
   "DXPW61408": "https://http2.mlstatic.com/D_NQ_NP_2X_972585-MLM93181009488_092025-F.webp"
  },
- "actualizado": "2026-11-05T16:19:31.000Z",
+ "actualizado": "2026-11-11T01:02:57.332Z",
  "precios": {
   "global": 0,
   "redondeo": 10,
